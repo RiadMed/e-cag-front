@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Membre",
+    "value": "membre"
+  },
+  {
+    "label": "Email",
+    "value": "mail"
+  },
+  {
+    "label": "Code",
+    "value": "sessionCAG.id"
+  }
+]

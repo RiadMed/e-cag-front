@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Code",
+    "value": "code"
+  },
+  {
+    "label": "Nom",
+    "value": "label"
+  },
+  {
+    "label": "Adresse",
+    "value": "Adresse"
+  },
+  {
+    "label": "Organisation",
+    "value": "organisation.label"
+  }
+]

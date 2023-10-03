@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Nom",
+    "value": "lastName"
+  },
+  {
+    "label": "Prénom",
+    "value": "firstName"
+  },
+  {
+    "label": "Email",
+    "value": "email"
+  }
+]

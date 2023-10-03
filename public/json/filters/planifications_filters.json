@@ -1,0 +1,10 @@
+[
+  {
+    "label": "Organisation",
+    "value": "organisation.label"
+  },
+  {
+    "label": "Description",
+    "value": "description"
+  }
+]
